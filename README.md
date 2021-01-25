@@ -23,3 +23,44 @@
   - I would look at the Netflix home page for hours looking for a Movie than on facebook, simply because the colors used by Netflix is less painful to eyes
 - Notification
   - I like it when Facebook provides me with notifications about my friend's birthday or at the event of someone liking/commenting on my post. It keeps the user informed
+
+## Week-2
+
+### 0201
+
+<p>The app that I use frequently is Snapchat and its <strong>features</strong> are as follows:- </p>
+
+- location
+- speakers 
+- microphone
+- camera
+- touchscreen
+- multitouch
+
+<strong>permission :</strong> 
+- Camera
+- Microphone
+- Notifications 
+- Storage
+- Contact
+
+### 0202
+
+<p>The app that I use frequently is Snapchat</p>
+<p>I will be identifing the MVC pattern in its friends page</p>
+<img src = "snapchat.png" alt= "snapchat screenshot" />
+<p>The <strong>Model</strong> is as follows </p>
+- The user icon at the top left 
+- The users friends 
+- The image of each user
+- The groups that the user is part of
+
+<p>The <strong>View</strong> is as follows </p>
+- Displaying each users activity 
+- Ensuring that the images are at the left 
+- The buttons at the bottom to change page
+
+<p>The <strong>Controller</strong> is as follows </p>
+- Updating the user's friends' snaps
+- Notifying the user if the receive a message
+- Disabling the snap once viewed
