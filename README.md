@@ -48,7 +48,7 @@
 
 <p>The app that I use frequently is Snapchat</p>
 <p>I will be identifing the MVC pattern in its friends page</p>
-<img src = "snapchat.png" alt= "snapchat screenshot" />
+<img src = "snapchat.png" alt= "snapchat screenshot" height = 300/>
 <p>The <strong>Model</strong> is as follows </p>
 - The user icon at the top left 
 - The users friends 
