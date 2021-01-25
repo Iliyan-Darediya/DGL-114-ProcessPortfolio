@@ -49,18 +49,22 @@
 <p>The app that I use frequently is Snapchat</p>
 <p>I will be identifing the MVC pattern in its friends page</p>
 <img src = "snapchat.png" alt= "snapchat screenshot" height = 300/>
+
 <p>The <strong>Model</strong> is as follows </p>
+
 - The user icon at the top left 
 - The users friends 
 - The image of each user
 - The groups that the user is part of
 
 <p>The <strong>View</strong> is as follows </p>
+
 - Displaying each users activity 
 - Ensuring that the images are at the left 
 - The buttons at the bottom to change page
 
 <p>The <strong>Controller</strong> is as follows </p>
+
 - Updating the user's friends' snaps
 - Notifying the user if the receive a message
 - Disabling the snap once viewed
