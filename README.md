@@ -68,3 +68,33 @@
 - Updating the user's friends' snaps
 - Notifying the user if the receive a message
 - Disabling the snap once viewed
+
+## Week-3
+
+### 0301
+
+<p>The app that I chosse is facebook.The activities in it are as follows:</p>
+  
+  -  Camera
+  -  Feed
+  -  Search
+  -  Messenger
+  -  notifications 
+  -  Marketplace
+
+<p>The app contains these features mainly in the header</p>
+
+### 0302
+
+<p>Facebook uses the following events</p>
+
+  -  onClick
+    -  Clicking a profile to open it
+    -  Clicking the like button to like a post
+    -  Clicking on the header images to follow other activities 
+    
+  -  onLongPress
+    -  Long pressing the like button would give other ways to react to a post
+    
+  -  onDoubleTap
+    - double tapping an image zooms in the image
