@@ -98,3 +98,16 @@
     
   -  onDoubleTap
     - double tapping an image zooms in the image
+
+## Week-4
+
+### 0401
+
+App choosen Snapchat
+
+<p>I reckon snapchat is an app that has a flat structure. The top bar and bottom bar both provide different views and activities. The friends section of the app provides insight to the messages, which as well is a flat structure. The setting however shows some signs of hierarchy. It's an activity that provides the path to navigate towards different navigations</p>
+
+## 0403
+
+<p>After reading the provided resourses I feel that a top bar can be used without any actions, whereas a bottom bar is much prefered when we are dealing with multiple screens. The bottom bar in snapchat has multiple actions like moving to photos view or friends view. It is common to have a Floating Action Button (FAB) on a bottom bar.</p>
+<p>There are certain differences when it comes to principles that govern the top and bottom bars: Top bars lean towards the principles of Persistent, Guiding, and Consistent, whereas the bottom bar leans towards Actionable, Flexible, and Ergonomic</p>
