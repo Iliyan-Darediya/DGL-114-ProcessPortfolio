@@ -111,3 +111,34 @@ App choosen Snapchat
 
 <p>After reading the provided resourses I feel that a top bar can be used without any actions, whereas a bottom bar is much prefered when we are dealing with multiple screens. The bottom bar in snapchat has multiple actions like moving to photos view or friends view. It is common to have a Floating Action Button (FAB) on a bottom bar.</p>
 <p>There are certain differences when it comes to principles that govern the top and bottom bars: Top bars lean towards the principles of Persistent, Guiding, and Consistent, whereas the bottom bar leans towards Actionable, Flexible, and Ergonomic</p>
+
+## Week-5
+
+### 0502
+
+App choosen WhatsApp
+
+| gestures      | Event |
+| ----------- | ----------- |
+| Tap      | Its responsible for the majority of the UI work, like opening a particular message or settings |
+| Long Press| Its responsible for providing additional options for each message, such as archive, delete and mute |
+| Scroll | Its used to scroll through each content |
+| Fling | Its used to go throug the messages fastser |
+
+### 0503
+
+<p>We are to use dialogue to grab the user's attention towards a particual peice of task or information</p>
+Dialogue can be divided as follows: 
+
+-  Alert Dialogue:
+    -  This type of dialogut interrupts the user from the task they are currently doing. 
+    -  It should be used only if the task/information is extremely important
+-  Simple Dialogs
+    -  It is used to provide information to the user about what is to happen next if the user proceeds forward
+-  Confirmation Dialogs
+   - It should primarily be used as the decision taking dialog
+   - They are a bit similar to radio buttons in terms of usage
+-  Full Screen Dialogs
+    - It should be used as a todo task manager
+    - It should use keyboard as an input sourse
+    - It has the power to display another dialog in itself
