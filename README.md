@@ -142,3 +142,36 @@ Dialogue can be divided as follows:
     - It should be used as a todo task manager
     - It should use keyboard as an input sourse
     - It has the power to display another dialog in itself
+
+
+## Week-8
+
+### 0801
+
+App choosen Instagram
+-  Shared Preferences:
+    -  Which stories were vied, which messages were read and replied, the user's stories, the user's bio.
+-  App-Specific Files:
+    -  The user's chat with other users, like and comments option are App-Specific Files. 
+    -  The Posts could also be considered as App-Specific Files	
+-  Shared Storage:
+    -  Most of the files seem to be stored on the cloud. But the app gives the user permission to store some to their files on local storage, provided they are logged in and are storing data regarding their own profile.
+-  Database:
+    -  Mostly all the files are uploaded to the cloud and not the user's disk. Thereby I gather that Instagram rarely uses local database. Something like the users login details could be stored in the disk storage
+-  Cloud:
+    -  Mostly all the files are uploaded to the cloud and not the user's disk. Thereby I gather that Instagram mostly uses cloud based database. Something like the users posts could be stored on the cloud.
+
+### 0802
+
+Advanced To-Do list settings
+-  Shared Preferences:
+    -  The user's prefered theme. Tasks completed or incomplete.
+-  App-Specific Files:
+    -  At times the user might want to store extremely private information, so maybe the app could use encryption to do so.
+-  Shared Storage:
+    -  If the user uploads images, videos or any documents then maybe that could be used by other apps.
+    -  If the user wishes to post their list on social media, then we could do so by using shared storage
+-  Database:
+    -  The user could synchronise their to-do list items with a clock/calender locally.
+-  Cloud:
+    -  If the user wishes to run the app on multiple devices then we can make that happen by using cloud storage
