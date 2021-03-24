@@ -175,3 +175,41 @@ Advanced To-Do list settings
     -  The user could synchronise their to-do list items with a clock/calender locally.
 -  Cloud:
     -  If the user wishes to run the app on multiple devices then we can make that happen by using cloud storage
+
+## Week-9
+
+### 0901
+
+Room is a way to implement SQLite. Its primary principle is to make operations that use database easy for the developer.Room consists of 3 components
+-  Database Class:
+    -  It holds the database and allows us to access it
+-  Entities:
+    -  They are tables within our Database
+-  Data Access Objects(DOA):
+    -  It provides methods so as to allow us to update the database 
+
+### 0903
+
+Improvements that needed to be made in Study Helper App
+-  The app should hold design according the users preferred theme.
+-  The card should inform the user which question is it that they get wrong the most and should push that so the user could revise it
+-  Add a clock to remind the user to study
+-  Add an inapp timer to implement the Pomodoro study technique
+
+## Week-10
+
+### 1002
+
+-  Display of Notifications:
+    -  We need to consider the users privacy while displaying the notification on either the lock screen or on the home screen. If there are messages from another user, the user should just get a notification that states that they've got a new message. Any information related to the message or the message sender should not be posted on the notification.     
+-  Notification actions:
+    -  Depending upon the reason behind the notification, we could give the user options to interact with the notification. For instance if an alarm clock notification comes up, the user should be provided options to either snooze or maybe close the alarm. 
+-  Display propertis of Notifications:
+    -  Depending upon the users preference theme, the notification should be presented.
+
+### 1003
+
+The app shoud not be sending user notifications if:
+ -  The app has to advertise something not releated to the app
+ -  The user has never opened the app
+ -  The purpose of the notification is to ask the user to rate the app
