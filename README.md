@@ -213,3 +213,18 @@ The app shoud not be sending user notifications if:
  -  The app has to advertise something not releated to the app
  -  The user has never opened the app
  -  The purpose of the notification is to ask the user to rate the app
+
+## Week-11
+
+### 1101
+
+
+|Animation Name | Animation Type | Description |
+| ----------- | ----------- | ----------- |
+| Animation Drawable | Frame-by-Frame      | Its like viewing a static object in movement, the continuous movement gives an illusion that the object is actually in motion |
+|View Animations| Tween |It performs a series of transformation on the image . It uses android.view.animation|
+|Property Animations|Tween| It performs changes over a period of time. It can make more changes than View animation. It uses android.animation. |
+
+### 1103
+
+We need to have the right amount of animation too much and it would irritate the user. Too little and it will bore the user. So we need to use the right amount of annimation, we can do this by making use of affordance. At times it's imperative to consider adding annimation at times when the app is doing some processsing and the user is just seeing nothing - like the loading process. Changing the speed, or the path of motion would be a better way to go. Another way would be to add tips, while loading like in andriod studio's starting page. We could also consider adding quotes.
